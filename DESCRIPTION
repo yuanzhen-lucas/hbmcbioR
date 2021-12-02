@@ -1,0 +1,16 @@
+Package: hbmcbioR
+Title: for fafu hbmc sysbioer learn more
+Version: 0.1
+Date: 2021
+Author: Jie Laber
+Maintainer: Jie Lab <jie@mxdedjeo.com>
+Depends: tidyverse,universalmotif,ggtree,TFBSTools,GenomicRanges,SummarizedExperiment,Biostrings,stats,plotly,htmlwidgets,motifmatchr,ShortRead,BiocParallel,DT,ggtext,ggpubr,ggplot2,gridExtra,readxl,JASPAR2020
+Description: we can push our lab codes to the github repository,so that you can learn more about our lab.
+License: Artistic-2.0
+Encoding: UTF-8
+LazyData: false
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
